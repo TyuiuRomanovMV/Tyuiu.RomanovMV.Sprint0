@@ -8,13 +8,13 @@ namespace Tyuiu.RomanovMV.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #0 | Выполнил: Грабина С. А. | ИСТНб-24-1";
+            Console.WriteLine("* Выполнил Романов Максим Викторович | ИИПБ-26-1                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");
-            Console.WriteLine("* Выполнил Романов Максим Викторович | ИИПБ-26-1                      *");
+            Console.WriteLine("* Выполнил Романов Максим Викторович | ИИПБ-26-1                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух    *");

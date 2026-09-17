@@ -7,7 +7,7 @@ namespace Tyuiu.RomanovMV.Sprint0.Task7.V0.Test
     [TestClass]
     public class DataServiceTest
     {
-        [TestMethod]
+        [TestMethod]    
         public void CheckAdditionArraysValid()
         {
             int[] nums1 = new int[] { 1, 1, 1, 1, 1 };
